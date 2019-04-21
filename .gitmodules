@@ -1,0 +1,18 @@
+[submodule "hu.ngms.opencl.projectwizard"]
+	path = hu.ngms.opencl.projectwizard
+	url = https://github.com/Augertron/hu.ngms.opencl.projectwizard.git
+[submodule "hu.ngms.opencl.product"]
+	path = hu.ngms.opencl.product
+	url = https://github.com/Augertron/hu.ngms.opencl.product.git
+[submodule "hu.ngms.opencl.feature"]
+	path = hu.ngms.opencl.feature
+	url = https://github.com/Augertron/hu.ngms.opencl.feature.git
+[submodule "hu.ngms.opencl.common"]
+	path = hu.ngms.opencl.common
+	url = https://github.com/Augertron/hu.ngms.opencl.common.git
+[submodule "hu.ngms.opencl.aggregator"]
+	path = hu.ngms.opencl.aggregator
+	url = https://github.com/Augertron/hu.ngms.opencl.aggregator.git
+[submodule "hu.ngms.opencl.editor"]
+	path = hu.ngms.opencl.editor
+	url = https://github.com/Augertron/hu.ngms.opencl.editor.git
